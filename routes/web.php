@@ -15,5 +15,5 @@ Route::get('/', function () {
     return view('welcome');
 });
 Route::get('/bot', function () {
-    return 'thah';
+    return '1959240892';
 });
